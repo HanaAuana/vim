@@ -7,3 +7,4 @@ set number
 set showmatch
 set incsearch
 set hlsearch
+inoremap lkj <Esc>
