@@ -8,3 +8,4 @@ set showmatch
 set incsearch
 set hlsearch
 inoremap lkj <Esc>
+let g:airline_theme='luna'
